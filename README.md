@@ -1,4 +1,4 @@
-# Documentation: Dynamic Visualization of Transformed Points Using Plotly
+# Dynamic Visualization of Transformed Points Using Plotly
 
 ## Overview
 
